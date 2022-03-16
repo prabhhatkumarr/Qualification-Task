@@ -1,0 +1,156 @@
+img{
+    border-radius: 100px;
+    width: 150px;
+    height: 120px;
+    /* position: absolute;
+    top: 200px;
+ left: 40px; */
+ 
+}
+
+.cont{
+    display:flex;
+    flex-direction: row;
+    padding-top: 10px;
+    padding-left:30px;
+
+}
+
+#top{
+    display:flex;
+    flex-direction: row;
+    justify-content: left;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #D3D3D3;
+    
+
+}
+#btn{
+    margin-left: 370px;
+}
+
+#btn1{
+    margin-left: 10px;
+}
+#img{
+    padding-right: 10px;
+    padding-top: 10px
+}
+#use2{
+    display:flex;
+    flex-direction: row;
+    padding-top: 20px;
+}
+.btn{
+    margin-left: 113px;
+}
+#username{
+    padding-right:290px;
+}
+#use1{
+    border: 1px solid grey;
+    padding-bottom: 1.5px;
+}
+#text{
+    font-weight: 400;
+    font-size: 18px;
+}
+#name{
+    padding-top: 30px;
+    font-size: larger;
+    font-weight: 600;
+    font-size: 30px;
+    /* padding-left: 150px; */
+}
+
+#gender{
+    padding-right: 310px;
+}
+
+#a{
+    display: flex;
+    flex-direction: row;
+    padding-top: 30px;
+}
+
+#b{
+    display: flex;
+    flex-direction: row;
+    padding-top: 30px;
+}
+
+#c{
+    display: flex;
+    flex-direction: row;
+    padding-top: 30px;
+}
+
+#numb2{
+    padding-left: 250px;
+}
+
+#address{
+    display: flex;
+    flex-direction: row;
+    padding-top: 30px;
+    border-bottom: 1px solid #D3D3D3;
+    padding-bottom: 20px;
+}
+
+
+#input{
+    padding-left: 300px;
+}
+
+#btn2{
+    margin-left: 235px;
+}
+
+#date2{
+    padding-left: 270px;
+}
+
+#date{
+font-weight: bold ;
+}
+
+#gender{
+
+    font-weight: bold;
+}
+
+#username{
+    font-weight: bold;
+}
+
+#numb{
+    font-weight: bold;
+}
+
+#address{
+    font-weight: bold;
+}
+
+#job{
+    display: flex;
+    flex-direction: row;
+    padding-top: 30px;
+}
+
+#jobtext{
+    padding-right: 296px;
+    font-weight: bold;
+}
+
+#emailtext{
+    font-weight: bold;
+    padding-right: 170px;
+
+}
+
+#email{
+    display: flex;
+    flex-direction: row;
+    padding-top: 30px;
+}
+
